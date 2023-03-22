@@ -23,6 +23,7 @@ h4 {
 
 .date {
     color: #28b8bd;
+    margin-right: 5px;
 }
 
 .save {
@@ -67,4 +68,8 @@ h4 {
 .btn-secondary:hover {
     color: #FFFFFF;
     background-color: #C25100;
+}
+
+.actions {
+    margin: 5px;
 }
